@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-todousman-dev-162029-authRole",
+      "UnauthRoleArn": "arn:aws:iam::488065772113:role/amplify-todousman-dev-162029-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::488065772113:role/amplify-todousman-dev-162029-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-todousman-dev-162029-deployment",
+      "UnauthRoleName": "amplify-todousman-dev-162029-unauthRole",
+      "StackName": "amplify-todousman-dev-162029",
+      "StackId": "arn:aws:cloudformation:us-east-1:488065772113:stack/amplify-todousman-dev-162029/bc3379f0-fe12-11ed-9d4a-12cc24ac7551",
+      "AmplifyAppId": "d2yn1wd260uc8"
+    },
+    "categories": {
+      "storage": {
+        "usmanTodo": {}
+      },
+      "api": {
+        "todousman": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resourceName": "usmanTodo",
+  "tableName": "todo",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
